@@ -1,0 +1,6 @@
+*.o
+*.dSYM
+server
+client
+autograder.zip
+*.pyc
